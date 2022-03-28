@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/algoritmasoruları.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/algoritmasoruları.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/algoritmasoruları.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/algoritmasoruları.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/algoritmasoruları.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/algoritmasoruları/bin/Debug/net5.0/algoritmasoruları.deps.json
+/Users/ecekokyar/Desktop/algoritmasoruları/bin/Debug/net5.0/algoritmasoruları.runtimeconfig.json
+/Users/ecekokyar/Desktop/algoritmasoruları/bin/Debug/net5.0/algoritmasoruları.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/algoritmasoruları/bin/Debug/net5.0/algoritmasoruları.dll
+/Users/ecekokyar/Desktop/algoritmasoruları/bin/Debug/net5.0/ref/algoritmasoruları.dll
+/Users/ecekokyar/Desktop/algoritmasoruları/bin/Debug/net5.0/algoritmasoruları.pdb
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/algoritmasoruları.dll
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/ref/algoritmasoruları.dll
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/algoritmasoruları.pdb
+/Users/ecekokyar/Desktop/algoritmasoruları/obj/Debug/net5.0/algoritmasoruları.genruntimeconfig.cache
